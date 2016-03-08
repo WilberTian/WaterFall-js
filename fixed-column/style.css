@@ -1,0 +1,8 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td{ margin:0; padding:0 }
+
+.warp{width:960px; margin:0 auto; overflow:hidden;}
+.full{float:left; display:inline;  margin-right:20px; margin-top:20px; overflow:hidden; width:224px;}
+.water{ width:200px; border:1px solid #ccc; padding:10px; box-shadow:2px 2px 5px #ccc; overflow:hidden; margin-bottom:20px;}
+.water img{ border:none;}
+.title{ color:#878787;}
+.last{margin-right:0;}
